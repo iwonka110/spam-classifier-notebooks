@@ -1,0 +1,21 @@
+# Obsługa notatników
+jupyterlab
+
+# Manipulacja danymi i obliczenia
+pandas
+numpy
+
+# Analiza eksploracyjna (EDA) i wizualizacje
+matplotlib
+seaborn
+
+# Uczenie maszynowe i metryki
+scikit-learn
+lightgbm
+xgboost
+
+# Zapisywanie wytrenowanych modeli
+joblib
+
+# Interpretacja modeli
+shap
